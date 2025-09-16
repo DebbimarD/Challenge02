@@ -14,6 +14,8 @@ Hacer un prefab de Kirby y 4 variantes (4 kirbys diferentes). Crear un terreno y
 
 ### Kirby Prefab
 
+### Variants
+
 ### Kirby Normal Prefab Variant 1
 
 ### Kirby Mike Prefab Variant 2 
@@ -23,3 +25,7 @@ Hacer un prefab de Kirby y 4 variantes (4 kirbys diferentes). Crear un terreno y
 ### Kirby Ness Prefab Variant 4
 
 ### Terrain
+
+### Memoria o Historia
+
+### Esperiencia Ganada
