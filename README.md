@@ -20,6 +20,14 @@ Hacer un prefab de Kirby y 4 variantes (4 kirbys diferentes). Crear un terreno y
 
 Lo primero que se hizo fue ir a objetos 3D y seleccionar la esfera para hacer el cuerpo de kirby y luego volvimos a seleccionar en la area de objetos pero esta vez son dos capsulas y estas se modifican de tamano, con la herramienta de escala se hacen mas pequenas y luego con la herramienta de mover se colocan enfrente de la esfera (cuerpo) y con esto se hicieron los ojos. Una vez esos primeros pasos se arrastra ese objeto a la area de assets para crear un prefab. 
 
+### Rigidbody
+<div align="center">
+  <img src="kirby prefab rigidbody.png" width="50%" />
+  <p><i>Se agrega el rigidbody.</i></p>
+</div>
+
+En el prefab en la opcion de de agregar componentes, se selecciona y se busca la opcion de rigidbody y la agregamos.
+
 ### Variants
 <div align="center">
   <img src="kirby prefab variants.png" width="50%" />
@@ -47,17 +55,37 @@ Aqui con la herramienta de mover y rotar se coloco el microfono en la mano de ki
 
 <div align="center">
   <img src="kirby mike final.png" width="50%" />
-  <p><i>Headphone.</i></p>
+  <p><i>Kirby Mike terminado.</i></p>
 </div>
 
 Finalmente se hicieron los audifonos, primero con algo similar que se hizo la base de el agarre del microfono pues se hicieron las almoadillas de los audifonos. Con una esfera que se aplasto y otra que quedo mas redonda se hizo una almoadilla y luego se duplico para colocarla una en cada lado del cuerpo de kirby. Por ultimo se utilizaron 3 cilindros para hacer el "casco" osea lo que conecta las almoadillas y crea el auricular. Con la herramienta de escala se puso el cilindro mas pequeno y se coloco en la parte de arriba del cuerpo de kirby y se duplico ese cilindro y se puso aun mas pequeno y con la herramienta de rotar y movier se coloco uno en cada lado conectando las almoadillas y completando el audifono.
 
 ### Kirby Sword Prefab Variant 3
+<div align="center">
+  <img src="cejas sphere.png" width="50%" />
+  <p><i>Cejas.</i></p>
+</div>
+
+Para la variante 3, Kirby Sword en este caso. Lo primero que se hizo fue agregar una esfera de objetos y con la herramienta de escala se hicieron mas pequenas y se estiro para hacer una especie de ceja, luego con la herramienta de rotar y mover se colocaron sobre los ojos y asi lograr la expresion mas ruda del kirby.
+
+<div align="center">
+  <img src="sword handheld with sphere.png" width="50%" />
+  <p><i>Mango de la espada.</i></p>
+</div>
+
+La cosa mas importante para lograr este kirby es la espada, para esto primero se agrego un cilindro y se hizo mas o menos mas ancho que el de el microfono y con la herramienta de escala fue que se minimizo un poco. Luego se agrego otro cilindro el cual con la herramienta de escala se aplasto bastante para el diseno del mango, con una esfera la cual se edito y se puso mas pequena con la escala pues se coloca en el centro del diseno arriba del agarre y se duplico para colocarlo en ambos lados de la espada y quedara el mango asi. Para el resto de la espada, especificamente para el filo y la espada como tal se utilizo un bloque y con la opcion de escala se alargo y coloco encima del mango, despues con dos cubos pequenos se coloco la punta de la espada osea se creo el efeccto de diamante o filo en la espada. Con la rotacion y lo de mover se coloco la espada en la mano del kirby. Para este kirby los pies y brazos se movieron y rotaron de posicion para poder recrear la pose de la imagen. Una vez la espada en su sitio, con una esfera y la opcion de escala se aplasto para hacer la base del gorrito. Despues con otra esfera la cual se alargo para recrear el gorro como tal y se coloco encima del kirby y posiciono para que pareciera el gorro mas o menos caido. Por ultimo con una esfera que se minimizo se hizo la punta del gorro.
+
+<div align="center">
+  <img src="gorro sphere.png" width="50%" />
+  <p><i>Kirby Sword terminado.</i></p>
+</div>
 
 ### Kirby Ness Prefab Variant 4
 
 ### Terrain
 
 ### Memoria o Historia
+Debbimar (Memoria) - Cuando era pequeña cuando estaban de moda los Nintendo DS yo tenía uno y un juego que jugaba bastante era sino mal recuerdo Kirby Súper Star Ultra. Lo jugaba mucho juntos al resto de juegos de la franquicia de Nintendo. Pero Kirby específicamente es un juego que me marcó bastante y de los que más recuerdo, junto a Starfy que era similar y yoshi island. Hace mucho no juego ninguno de Kirby ya que no sentía el mismo “hype” a los antiguos que habían de plataforma en DS. Esos juegos tenían ese toque que sin importar que no te aburrías. Actualmente me ha llamado la atención el juego más reciente que han sacado de Kirby in The Forgotten Land que es parecido al Mario Odissey en cuestión del mundo abierto y se ve interesante pero aún no me he tomado la oportunidad de comprármelo.
 
 ### Esperiencia Ganada
+Debbimar - De este challenge lo que mas me sorprendio fue la cantidad de veces que utilice esferas. Al kirby ser un personaje redondo y casi todas sus extremidades ser de la misma forma pues muchas cosas eran con esferas pero en otros kirbys se utilizaron tambien cubos, cilindros e incluso capsulas. Me sorprendio como con objetos 3D simples se logro hacer "objetos" o assets mas complejos como el microfono y la espada.
