@@ -86,7 +86,7 @@ La cosa mas importante para lograr este kirby es la espada, para esto primero se
 
 <div align="center">
   <img src="kirby mike in terrain.png" width="50%" />
-  <p><i>Kirby Kirby Mike en Terrain.</i></p>
+  <p><i>Kirby Mike en Terrain.</i></p>
 </div>
 
 <div align="center">
