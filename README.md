@@ -87,7 +87,7 @@ La cosa mas importante para lograr este kirby es la espada, para esto primero se
 </div>
 
 
-Para hacer a Kirby Ness, primero utilizamos el Kirby Simple como prefab y creamos una variante de este.
+Para hacer a Kirby Ness, primero utilizamos el Kirby Simple como prefab y creamos una variante del mismo.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fa0a87db-62fc-43c9-937d-e9aeb0178497" width="50%" />
@@ -119,7 +119,7 @@ Después de terminar la visera, creamos el botón superior de la gorra.Simplemen
 
 
 Una vez colocadas todas las partes de la gorra de Kirby, comenzamos a colorearlas. Para esto, en la parte inferior de Unity creamos materiales.
-Para cada color, en el Base Map seleccionamos el tono correspondiente y luego arrastramos el material sobre cada objeto que quería pintar.
+Para cada color, en el Base Map seleccionamos el tono correspondiente y luego arrastramos el material sobre cada objeto que queriamos pintar.
 
 
 
