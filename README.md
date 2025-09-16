@@ -90,7 +90,7 @@ La cosa mas importante para lograr este kirby es la espada, para esto primero se
 Para hacer a Kirby Ness, primero utilizamos el Kirby Simple como prefab y creamos una variante de este.
 
 <div align="center">
-  <img src="Kirby ness hat" src="https://github.com/user-attachments/assets/fa0a87db-62fc-43c9-937d-e9aeb0178497" width="50%" />
+  <img src="https://github.com/user-attachments/assets/fa0a87db-62fc-43c9-937d-e9aeb0178497" width="50%" />
   <p><i>Parte 2 (Corona de la gorra)</i></p>
 </div>
 
@@ -98,7 +98,7 @@ Para hacer a Kirby Ness, primero utilizamos el Kirby Simple como prefab y creamo
 Luego de haber creado el prefab, utilizamos una esfera para crear la corona de la gorra (la parte superior). Aplastamos ligeramente la esfera para que quedara un poco plana y la agrandamos de modo que sobresaliera de la cabeza de Kirby, simulando así la gorra. Esta parte tomó algo de trabajo, ya que fue un reto lograr que la parte superior se viera circular y, al mismo tiempo, que los lados se vieran planos para que pareciera una gorra real.
 
 <div align="center">
-  <img  src="Kirby ness visor" src="https://github.com/user-attachments/assets/f87c6f73-a189-4bce-ab22-6d9e8c97d281" width="50%" />
+  <img  src="https://github.com/user-attachments/assets/f87c6f73-a189-4bce-ab22-6d9e8c97d281" width="50%" />
   <p><i>Parte 3 (Visera de la gorra)</i></p>
 </div>
 
@@ -106,14 +106,13 @@ Al terminar la corona, comenzamos a crear la visera de la gorra. Para esto utili
 Por último, la colocamos en la parte frontal de la cabeza de Kirby.
 
 <div align="center">
-  <img  src="kirby ness button" src="https://github.com/user-attachments/assets/c70b4f43-da99-4b66-b34d-89138e322595" width="50%" />
+  <img  src="https://github.com/user-attachments/assets/c70b4f43-da99-4b66-b34d-89138e322595" width="50%" />
   <p><i>Parte 4 Boton de la gorra)</i></p>
 </div>
 
 
 Después de terminar la visera, creamos el botón superior de la gorra.Simplemente utilizamos una esfera y la redujimos bastante para que quedara como una pequeña bolita.Cuando el tamaño pareció adecuado, la colocamos en la punta superior de la gorra.
 <div align="center">
-<img width="691" height="758" alt="colored ness" src="https://github.com/user-attachments/assets/ef63c5bb-2297-494b-a58b-54ff0fe56c2c" />
   <img  alt="colored ness" src="https://github.com/user-attachments/assets/ef63c5bb-2297-494b-a58b-54ff0fe56c2c" width="50%" />
   <p><i>Parte 5 colorear a Kirby Ness)</i></p>
 </div>
@@ -136,6 +135,7 @@ Para cada color, en el Base Map seleccionamos el tono correspondiente y luego ar
   <p><i>Kirby Sword en Terrain.</i></p>
 </div>
 
+<div align="center">
 <img alt="complete ness" src="https://github.com/user-attachments/assets/70a8e4a9-da94-4e75-8278-ecb6ed3a8192" width = "50%"/>
   <p><i>Kirby Ness on Terrain and ready to fight!.</i></p>
 </div>
@@ -143,5 +143,10 @@ Para cada color, en el Base Map seleccionamos el tono correspondiente y luego ar
 ### Memoria o Historia
 Debbimar (Memoria) - Cuando era pequeña cuando estaban de moda los Nintendo DS yo tenía uno y un juego que jugaba bastante era sino mal recuerdo Kirby Súper Star Ultra. Lo jugaba mucho juntos al resto de juegos de la franquicia de Nintendo. Pero Kirby específicamente es un juego que me marcó bastante y de los que más recuerdo, junto a Starfy que era similar y yoshi island. Hace mucho no juego ninguno de Kirby ya que no sentía el mismo “hype” a los antiguos que habían de plataforma en DS. Esos juegos tenían ese toque que sin importar que no te aburrías. Actualmente me ha llamado la atención el juego más reciente que han sacado de Kirby in The Forgotten Land que es parecido al Mario Odissey en cuestión del mundo abierto y se ve interesante pero aún no me he tomado la oportunidad de comprármelo.
 
+Jeremy (memoria) - Cuando era pequeño me gustaba mucho jugar Super Smash Bros., desde la versión de Nintendo 64 hasta Brawl. Uno de los personajes que más me gustaba usar era Kirby, ya que era muy fácil de manejar y tenía buenas habilidades.
+Lo que más me llamaba la atención de él era su habilidad única: podía imitar las habilidades de sus oponentes cada vez que los “chupaba”. La que más me gustaba imitar era la del personaje Ness, porque cuando Kirby le robaba su habilidad también se ponía la gorra de Ness, y se veía bien cute con ella. Al realizar este proyecto me dio mucha nostalgia, porque Kirby es un personaje que me recuerda mucho a mi infancia y me hizo dar un verdadero viaje al pasado.
+
 ### Esperiencia Ganada
 Debbimar - De este challenge lo que mas me sorprendio fue la cantidad de veces que utilice esferas. Al kirby ser un personaje redondo y casi todas sus extremidades ser de la misma forma pues muchas cosas eran con esferas pero en otros kirbys se utilizaron tambien cubos, cilindros e incluso capsulas. Me sorprendio como con objetos 3D simples se logro hacer "objetos" o assets mas complejos como el microfono y la espada.
+
+Jeremy - Este challenge me gustó mucho, ya que tuve la oportunidad de crear a Kirby, uno de los personajes que marcó mi infancia. La parte que más trabajo me dio fue la de crear sus zapatos, porque no sabía qué objeto utilizar. Al final terminé usando la esfera, con la que pude hacerlos lo más parecidos posible al Kirby original. Espero que algún día pueda aprender a utilizar más herramientas de Unity para crear personajes como Kirby de forma más precisa y elaborada.
