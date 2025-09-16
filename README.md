@@ -84,6 +84,16 @@ La cosa mas importante para lograr este kirby es la espada, para esto primero se
 
 ### Terrain
 
+<div align="center">
+  <img src="kirby mike in terrain.png" width="50%" />
+  <p><i>Kirby Kirby Mike en Terrain.</i></p>
+</div>
+
+<div align="center">
+  <img src="kirby sword in terrain.png" width="50%" />
+  <p><i>Kirby Sword en Terrain.</i></p>
+</div>
+
 ### Memoria o Historia
 Debbimar (Memoria) - Cuando era pequeña cuando estaban de moda los Nintendo DS yo tenía uno y un juego que jugaba bastante era sino mal recuerdo Kirby Súper Star Ultra. Lo jugaba mucho juntos al resto de juegos de la franquicia de Nintendo. Pero Kirby específicamente es un juego que me marcó bastante y de los que más recuerdo, junto a Starfy que era similar y yoshi island. Hace mucho no juego ninguno de Kirby ya que no sentía el mismo “hype” a los antiguos que habían de plataforma en DS. Esos juegos tenían ese toque que sin importar que no te aburrías. Actualmente me ha llamado la atención el juego más reciente que han sacado de Kirby in The Forgotten Land que es parecido al Mario Odissey en cuestión del mundo abierto y se ve interesante pero aún no me he tomado la oportunidad de comprármelo.
 
