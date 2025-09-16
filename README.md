@@ -14,7 +14,7 @@ Hacer un prefab de Kirby y 4 variantes (4 kirbys diferentes). Crear un terreno y
 
 ### Kirby Prefab
 <div align="center">
-  <img src="kirby Prefab.png" width="50%" />
+  <img src="kirby prefab.png" width="50%" />
   <p><i>iniciando con el prefab.</i></p>
 </div>
 
@@ -76,7 +76,7 @@ Para la variante 3, Kirby Sword en este caso. Lo primero que se hizo fue agregar
 La cosa mas importante para lograr este kirby es la espada, para esto primero se agrego un cilindro y se hizo mas o menos mas ancho que el de el microfono y con la herramienta de escala fue que se minimizo un poco. Luego se agrego otro cilindro el cual con la herramienta de escala se aplasto bastante para el diseno del mango, con una esfera la cual se edito y se puso mas pequena con la escala pues se coloca en el centro del diseno arriba del agarre y se duplico para colocarlo en ambos lados de la espada y quedara el mango asi. Para el resto de la espada, especificamente para el filo y la espada como tal se utilizo un bloque y con la opcion de escala se alargo y coloco encima del mango, despues con dos cubos pequenos se coloco la punta de la espada osea se creo el efeccto de diamante o filo en la espada. Con la rotacion y lo de mover se coloco la espada en la mano del kirby. Para este kirby los pies y brazos se movieron y rotaron de posicion para poder recrear la pose de la imagen. Una vez la espada en su sitio, con una esfera y la opcion de escala se aplasto para hacer la base del gorrito. Despues con otra esfera la cual se alargo para recrear el gorro como tal y se coloco encima del kirby y posiciono para que pareciera el gorro mas o menos caido. Por ultimo con una esfera que se minimizo se hizo la punta del gorro.
 
 <div align="center">
-  <img src="gorro sphere.png" width="50%" />
+  <img src="gorro spheres.png" width="50%" />
   <p><i>Kirby Sword terminado.</i></p>
 </div>
 
