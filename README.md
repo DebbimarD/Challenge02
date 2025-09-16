@@ -81,49 +81,47 @@ La cosa mas importante para lograr este kirby es la espada, para esto primero se
 </div>
 
 ### Kirby Ness Prefab Variant 4
+<div align="center">
+  <img src="Simple Kirby Ness" src="https://github.com/user-attachments/assets/72d0d017-a0a8-4399-a260-dacb19d858fd" width="50%" />
+  <p><i>Parte 1 (Prefab)</i></p>
+</div>
 
-<img width="693" height="435" alt="Simple Kirby Ness" src="https://github.com/user-attachments/assets/72d0d017-a0a8-4399-a260-dacb19d858fd" />
-
-Parte 1 (Prefab)
 
 Para hacer a Kirby Ness, primero utilizamos el Kirby Simple como prefab y creamos una variante de este.
 
-<img width="688" height="479" alt="Kirby ness hat" src="https://github.com/user-attachments/assets/fa0a87db-62fc-43c9-937d-e9aeb0178497" />
+<div align="center">
+  <img src="Kirby ness hat" src="https://github.com/user-attachments/assets/fa0a87db-62fc-43c9-937d-e9aeb0178497" width="50%" />
+  <p><i>Parte 2 (Corona de la gorra)</i></p>
+</div>
 
-Parte 2 (Corona de la gorra)
 
-Luego de haber creado el prefab, utilizamos una esfera para crear la corona de la gorra (la parte superior).
-Aplastamos ligeramente la esfera para que quedara un poco plana y la agrandamos de modo que sobresaliera de la cabeza de Kirby, simulando así la gorra.
-Esta parte tomó algo de trabajo, ya que fue un reto lograr que la parte superior se viera circular y, al mismo tiempo, que los lados se vieran planos para que pareciera una gorra real.
+Luego de haber creado el prefab, utilizamos una esfera para crear la corona de la gorra (la parte superior). Aplastamos ligeramente la esfera para que quedara un poco plana y la agrandamos de modo que sobresaliera de la cabeza de Kirby, simulando así la gorra. Esta parte tomó algo de trabajo, ya que fue un reto lograr que la parte superior se viera circular y, al mismo tiempo, que los lados se vieran planos para que pareciera una gorra real.
 
-<img width="687" height="487" alt="Kirby ness visor" src="https://github.com/user-attachments/assets/f87c6f73-a189-4bce-ab22-6d9e8c97d281" />
 
-Parte 3 (Visera de la gorra)
+  <img  src="Kirby ness visor" src="https://github.com/user-attachments/assets/f87c6f73-a189-4bce-ab22-6d9e8c97d281" width="50%" />
+  <p><i>Parte 3 (Visera de la gorra)</i></p>
+</div>
 
-Al terminar la corona, comenzamos a crear la visera de la gorra.
-Para esto utilizamos otra esfera, la reduje bastante de tamaño y la aplanamos de forma pronunciada para que quedara bien plana en la parte inferior.
-Luego estiramos un poco la parte superior para darle la curva característica de la visera.
+Al terminar la corona, comenzamos a crear la visera de la gorra. Para esto utilizamos otra esfera, se redujo bastante de tamaño y la aplanamos de forma pronunciada para que quedara bien plana en la parte inferior.Luego estiramos un poco la parte superior para darle la curva característica de la visera.
 Por último, la colocamos en la parte frontal de la cabeza de Kirby.
 
-<img width="678" height="481" alt="kirby ness button" src="https://github.com/user-attachments/assets/c70b4f43-da99-4b66-b34d-89138e322595" />
+
+  <img  src="kirby ness button" src="https://github.com/user-attachments/assets/c70b4f43-da99-4b66-b34d-89138e322595" width="50%" />
+  <p><i>Parte 4 Boton de la gorra)</i></p>
+</div>
 
 
-Parte 4 (Botón de la gorra)
-
-Después de terminar la visera, creamos el botón superior de la gorra.
-Simplemente utilizamos una esfera y la redujimos bastante para que quedara como una pequeña bolita.
-Cuando el tamaño pareció adecuado, la colocamos en la punta superior de la gorra.
+Después de terminar la visera, creamos el botón superior de la gorra.Simplemente utilizamos una esfera y la redujimos bastante para que quedara como una pequeña bolita.Cuando el tamaño pareció adecuado, la colocamos en la punta superior de la gorra.
 
 <img width="691" height="758" alt="colored ness" src="https://github.com/user-attachments/assets/ef63c5bb-2297-494b-a58b-54ff0fe56c2c" />
+  <img  alt="colored ness" src="https://github.com/user-attachments/assets/ef63c5bb-2297-494b-a58b-54ff0fe56c2c" width="50%" />
+  <p><i>Parte 5 colorear a Kirby Ness)</i></p>
+</div>
 
 
-Parte 5 (Colorear)
+Una vez colocadas todas las partes de la gorra de Kirby, comenzamos a colorearlas. Para esto, en la parte inferior de Unity creamos materiales.
+Para cada color, en el Base Map seleccionamos el tono correspondiente y luego arrastramos el material sobre cada objeto que quería pintar.
 
-Una vez colocadas todas las partes de la gorra de Kirby, comencé a colorearlas.
-Para esto, en la parte inferior de Unity creé materiales.
-Para cada color, en el Base Map seleccioné el tono correspondiente y luego arrastré el material sobre cada objeto que quería pintar.
-
-foto extra
 
 
 ### Terrain
@@ -138,7 +136,7 @@ foto extra
   <p><i>Kirby Sword en Terrain.</i></p>
 </div>
 
-<img width="684" height="380" alt="complete ness" src="https://github.com/user-attachments/assets/70a8e4a9-da94-4e75-8278-ecb6ed3a8192" />
+<img alt="complete ness" src="https://github.com/user-attachments/assets/70a8e4a9-da94-4e75-8278-ecb6ed3a8192" width = "50%"/>
   <p><i>Kirby Ness on Terrain and ready to fight!.</i></p>
 </div>
 
