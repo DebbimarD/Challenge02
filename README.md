@@ -6,7 +6,7 @@
 - Jeremy Curry Romero
 
 ## Reglas del reto
-Hacer un prefab de Kirby y 4 variantes (4 kirbys diferentes). Crear un terreno y intepretar un area de Puerto Rico.
+Hacer un prefab de Kirby y 4 variantes (4 kirbys diferentes). Crear un terreno y intepretar un área de Puerto Rico.
 
 ---
 
@@ -15,10 +15,10 @@ Hacer un prefab de Kirby y 4 variantes (4 kirbys diferentes). Crear un terreno y
 ### Kirby Prefab
 <div align="center">
   <img src="kirby prefab.png" width="50%" />
-  <p><i>iniciando con el prefab.</i></p>
+  <p><i>Iniciando con el prefab.</i></p>
 </div>
 
-Lo primero que se hizo fue ir a objetos 3D y seleccionar la esfera para hacer el cuerpo de kirby y luego volvimos a seleccionar en la area de objetos pero esta vez son dos capsulas y estas se modifican de tamano, con la herramienta de escala se hacen mas pequenas y luego con la herramienta de mover se colocan enfrente de la esfera (cuerpo) y con esto se hicieron los ojos. Una vez esos primeros pasos se arrastra ese objeto a la area de assets para crear un prefab. 
+Lo primero que se hizo fue ir a Objetos 3D y seleccionar la esfera para hacer el cuerpo de Kirby y luego volvimos a seleccionar en el área de objetos, pero esta vez son dos cápsulas y estas se modifican de tamaño, con la herramienta de escala se hacen más pequeñas y luego con la herramienta de mover se colocan enfrente de la esfera (cuerpo) y con esto se hicieron los ojos. Una vez esos primeros pasos se arrastra ese objeto al área de assets para crear un prefab. 
 
 ### Rigidbody
 <div align="center">
@@ -26,7 +26,7 @@ Lo primero que se hizo fue ir a objetos 3D y seleccionar la esfera para hacer el
   <p><i>Se agrega el rigidbody.</i></p>
 </div>
 
-En el prefab en la opcion de de agregar componentes, se selecciona y se busca la opcion de rigidbody y la agregamos.
+En el prefab, en la opción de de agregar componentes, se selecciona y se busca la opción de rigidbody y la agregamos.
 
 ### Variants
 <div align="center">
@@ -34,9 +34,12 @@ En el prefab en la opcion de de agregar componentes, se selecciona y se busca la
   <p><i>Se crean 4 variantes del prefab</i></p>
 </div>
 
-Despues de haber creado el prefab se hacen 4 variantes para los diferentes kirbys y esto se hace arrastrando el prefab principal al area de assets y unity te da un aviso de si quieres crear un prefab variants y al marcar que si ya tenemos el primer variant. Se hacen los mismos pasos para el resto de los variants.
+Después de haber creado el prefab, se hacen 4 variantes para los diferentes Kirbys y esto se hace arrastrando el prefab principal al área de assets y unity te da un aviso de si quieres crear un prefab variants y al marcar que si ya tenemos el primer variant. Se hacen los mismos pasos para el resto de los variants.
 
 ### Kirby Normal Prefab Variant 1
+
+Para la primera variante, hicimos un Kirby normal. Primero, añadimos una cápsula, la redimensionamos y movimos el objeto de tal forma que quede como si fuera un pie de Kirby. Luego, al tener el primer pie, lo dublicamos y rotamos para posicionarlo en el otro lado. Similarmente, añadimos otra cápsula nueva para crear un brazo. Para ello, modificamos y escalamos los ejes X, Y y Z del objeto. Lo duplicamos y lo reposicionamos al otro lado para que quede terminado sus brazitos. Por otro lado, insertamos al proyecto una esfera para crear ese rubor característico que tiene en la cara de Kirby. Fue un poco complicado ya que se jugó con las herramientas de posicionamiento para que quede así de ovalados, como se muestra en la imagen. Una vez más, añadimos otra esfera para darle una sonrisa a Kirby. Se aplastó la esfera, se movió el objeto y se rotó para que quedar una pequeña sonrisa. Finalmente, para este Kirby, se le añadió a los ojos el típico reflejo de los ojos cuando le da la luz. Para eso, se creó una cápsula, se puso más pequeño el cilindro y se posicionó en la parte superior y se duplicó para que lo tengan los dos ojos. 
+
 
 ### Kirby Mike Prefab Variant 2 
 <div align="center">
@@ -44,21 +47,21 @@ Despues de haber creado el prefab se hacen 4 variantes para los diferentes kirby
   <p><i>Microfono</i></p>
 </div>
 
-Para el segundo kirby en este caso la version de Mike, en el cual es un kirby con microfono y audifonos. Lo que se hizo para este kirby fue acomodar los brazos y los pies con la herramienta de mover y rotar. Aqui lo principal era crear el microfono, para este se fue a la area de objetos y se escogio un cilindro y con la opcion de escala se minimizo para que fuera el tamano correcto para nuestro kirby. Luego con una esfera y la herramienta de escala como que la aplastamos para hacer una especie de plato hondo y luego duplicamos eso y con la herramienta de escala se agranda un poco para que quede mas redondo y hacer la base del microfono con  mas detalle. Por ultimo con un cubo, se uso la herramienta de escala para ponerlo mas pequeno y luego hacer la base de arriba del microfono y ese cubo se duplico para hacer algo similar que se hizo para la base del tubo y luego de que tenemos el cubo ya pues se edita la escala para hacerlo un poco mas pequeno y que quede el microfono dentro de la base del microfono y con la herramienta de mover se coloca arriba del cilindro y base que en cojunto hacian el agarre del microfono.
+Para el segundo Kirby en este caso la version de Mike, en el cual es un Kirby con micrófono y audífonos. Lo que se hizo para este Kirby fue acomodar los brazos y los pies con la herramienta de mover y rotar. Aqui lo principal era crear el micrófono, para este se fue al área de objetos y se escogió un cilindro y con la opción de escala se minimizó para que fuera el tamaño correcto para nuestro Kirby. Luego con una esfera y la herramienta de escala como que la aplastamos para hacer una especie de plato hondo y luego duplicamos eso y con la herramienta de escala se agranda un poco para que quede más redondo y hacer la base del microfono con más detalle. Por último, con un cubo, se uso la herramienta de escala para ponerlo más pequeño y luego hacer la base de arriba del micrófono y ese cubo se duplicó para hacer algo similar que se hizo para la base del tubo y luego de que tenemos el cubo ya pues se edita la escala para hacerlo un poco más pequeño y que quede el micrófono dentro de la base del micrófono y con la herramienta de mover se coloca arriba del cilindro y base que en cojunto hacian el agarre del micrófono.
 
 <div align="center">
   <img src="kirby mic adjustment.png" width="50%" />
-  <p><i>Posicionamiento de microfono.</i></p>
+  <p><i>Posicionamiento del micrófono.</i></p>
 </div>
 
-Aqui con la herramienta de mover y rotar se coloco el microfono en la mano de kirby.
+Aquí con la herramienta de mover y rotar se colocó el micrófono en la mano de Kirby.
 
 <div align="center">
   <img src="kirby mike final.png" width="50%" />
   <p><i>Kirby Mike terminado.</i></p>
 </div>
 
-Finalmente se hicieron los audifonos, primero con algo similar que se hizo la base de el agarre del microfono pues se hicieron las almoadillas de los audifonos. Con una esfera que se aplasto y otra que quedo mas redonda se hizo una almoadilla y luego se duplico para colocarla una en cada lado del cuerpo de kirby. Por ultimo se utilizaron 3 cilindros para hacer el "casco" osea lo que conecta las almoadillas y crea el auricular. Con la herramienta de escala se puso el cilindro mas pequeno y se coloco en la parte de arriba del cuerpo de kirby y se duplico ese cilindro y se puso aun mas pequeno y con la herramienta de rotar y movier se coloco uno en cada lado conectando las almoadillas y completando el audifono.
+Finalmente, se hicieron los audífonos. Primero, con algo similar que se hizo la base del agarre del micrófono pues se hicieron las almohadillas de los audífonos. Con una esfera que se aplasto y otra que quedó más redonda se hizo una almohadilla y luego se duplicó para colocarla una en cada lado del cuerpo de Kirby. Por último, se utilizaron 3 cilindros para hacer el "casco", es decir, lo que conecta las almohadillas y crea el auricular. Con la herramienta de escala se puso el cilindro más pequeño y se colocó en la parte de arriba del cuerpo de Kirby y se duplicó ese cilindro y se puso aún más pequeño y. Para finalizar, con la herramienta de rotar y mover, se colocó uno en cada lado conectando las almohadillas.
 
 ### Kirby Sword Prefab Variant 3
 <div align="center">
@@ -66,14 +69,14 @@ Finalmente se hicieron los audifonos, primero con algo similar que se hizo la ba
   <p><i>Cejas.</i></p>
 </div>
 
-Para la variante 3, Kirby Sword en este caso. Lo primero que se hizo fue agregar una esfera de objetos y con la herramienta de escala se hicieron mas pequenas y se estiro para hacer una especie de ceja, luego con la herramienta de rotar y mover se colocaron sobre los ojos y asi lograr la expresion mas ruda del kirby.
+Para la variante 3, Kirby Sword. Lo primero que se hizo fue agregar una esfera de objetos y con la herramienta de escala se hicieron más pequeñas y se estiró para hacer una especie de ceja. Luego, con la herramienta de rotar y mover se colocaron sobre los ojos y así lograr la expresión más ruda de Kirby.
 
 <div align="center">
   <img src="sword handheld with sphere.png" width="50%" />
   <p><i>Mango de la espada.</i></p>
 </div>
 
-La cosa mas importante para lograr este kirby es la espada, para esto primero se agrego un cilindro y se hizo mas o menos mas ancho que el de el microfono y con la herramienta de escala fue que se minimizo un poco. Luego se agrego otro cilindro el cual con la herramienta de escala se aplasto bastante para el diseno del mango, con una esfera la cual se edito y se puso mas pequena con la escala pues se coloca en el centro del diseno arriba del agarre y se duplico para colocarlo en ambos lados de la espada y quedara el mango asi. Para el resto de la espada, especificamente para el filo y la espada como tal se utilizo un bloque y con la opcion de escala se alargo y coloco encima del mango, despues con dos cubos pequenos se coloco la punta de la espada osea se creo el efeccto de diamante o filo en la espada. Con la rotacion y lo de mover se coloco la espada en la mano del kirby. Para este kirby los pies y brazos se movieron y rotaron de posicion para poder recrear la pose de la imagen. Una vez la espada en su sitio, con una esfera y la opcion de escala se aplasto para hacer la base del gorrito. Despues con otra esfera la cual se alargo para recrear el gorro como tal y se coloco encima del kirby y posiciono para que pareciera el gorro mas o menos caido. Por ultimo con una esfera que se minimizo se hizo la punta del gorro.
+La cosa más importante para lograr este Kirby es la espada. Para esto, primero se agregó un cilindro y se hizo más ancho que el del micrófono. Con la herramienta de escala fue que se minimizó un poco. Luego, se agregó otro cilindro el cual, con la herramienta de escala, se aplasto bastante para el diseño del mango, con una esfera la cual se editó y se puso más pequeña con la escala pues se coloca en el centro del diseño arriba del agarre y se duplicó para colocarlo en ambos lados de la espada y quedara el mango asi. Para el resto de la espada, especificamente para el filo y la espada como tal se utilizó un bloque y con la opción de escala se alargó y se colocó encima del mango. Despues con dos cubos pequeños, se coloco la punta de la espada, es decir, se creó el efeccto de diamante o filo en la espada. Con la rotación y lo de mover, se colocó la espada en la mano del Kirby. Para este Kirby, los pies y brazos se movieron y rotaron de posición para poder recrear la pose de la imagen. Una vez la espada en su sitio, con una esfera y la opción de escala se aplastó para hacer la base del gorrito. Acto seguido, con otra esfera, se alargó para recrear el gorro y se colocó encima del Kirby y se posicionó para que pareciera el gorro más o menos caido. Por último, se minimizó una esfera para crear la punta del gorro.
 
 <div align="center">
   <img src="gorro spheres.png" width="50%" />
@@ -102,24 +105,23 @@ Luego de haber creado el prefab, utilizamos una esfera para crear la corona de l
   <p><i>Parte 3 (Visera de la gorra)</i></p>
 </div>
 
-Al terminar la corona, comenzamos a crear la visera de la gorra. Para esto utilizamos otra esfera, se redujo bastante de tamaño y la aplanamos de forma pronunciada para que quedara bien plana en la parte inferior.Luego estiramos un poco la parte superior para darle la curva característica de la visera.
-Por último, la colocamos en la parte frontal de la cabeza de Kirby.
+Al terminar la corona, comenzamos a crear la visera de la gorra. Para esto utilizamos otra esfera, se redujo bastante de tamaño y la aplanamos de forma pronunciada para que quedara bien plana en la parte inferior. Luego estiramos un poco la parte superior para darle la curva característica de la visera. Por último, la colocamos en la parte frontal de la cabeza de Kirby.
 
 <div align="center">
   <img  src="https://github.com/user-attachments/assets/c70b4f43-da99-4b66-b34d-89138e322595" width="50%" />
-  <p><i>Parte 4 Boton de la gorra)</i></p>
+  <p><i>Parte 4 (Botón de la gorra)</i></p>
 </div>
 
 
-Después de terminar la visera, creamos el botón superior de la gorra.Simplemente utilizamos una esfera y la redujimos bastante para que quedara como una pequeña bolita.Cuando el tamaño pareció adecuado, la colocamos en la punta superior de la gorra.
+Después de terminar la visera, creamos el botón superior de la gorra. Simplemente utilizamos una esfera y la redujimos bastante para que quedara como una pequeña bolita. Cuando el tamaño pareció adecuado, la colocamos en la punta superior de la gorra.
+
 <div align="center">
   <img  alt="colored ness" src="https://github.com/user-attachments/assets/ef63c5bb-2297-494b-a58b-54ff0fe56c2c" width="50%" />
   <p><i>Parte 5 colorear a Kirby Ness)</i></p>
 </div>
 
 
-Una vez colocadas todas las partes de la gorra de Kirby, comenzamos a colorearlas. Para esto, en la parte inferior de Unity creamos materiales.
-Para cada color, en el Base Map seleccionamos el tono correspondiente y luego arrastramos el material sobre cada objeto que queriamos pintar.
+Una vez colocadas todas las partes de la gorra de Kirby, comenzamos a colorearlas. Para esto, en la parte inferior de Unity creamos materiales para cada color. Cambiamos los colores al tono correspondiente y luego arrastramos el material sobre cada objeto que queriamos pintar.
 
 
 
@@ -141,12 +143,11 @@ Para cada color, en el Base Map seleccionamos el tono correspondiente y luego ar
 </div>
 
 ### Memoria o Historia
-Debbimar (Memoria) - Cuando era pequeña cuando estaban de moda los Nintendo DS yo tenía uno y un juego que jugaba bastante era sino mal recuerdo Kirby Súper Star Ultra. Lo jugaba mucho juntos al resto de juegos de la franquicia de Nintendo. Pero Kirby específicamente es un juego que me marcó bastante y de los que más recuerdo, junto a Starfy que era similar y yoshi island. Hace mucho no juego ninguno de Kirby ya que no sentía el mismo “hype” a los antiguos que habían de plataforma en DS. Esos juegos tenían ese toque que sin importar que no te aburrías. Actualmente me ha llamado la atención el juego más reciente que han sacado de Kirby in The Forgotten Land que es parecido al Mario Odissey en cuestión del mundo abierto y se ve interesante pero aún no me he tomado la oportunidad de comprármelo.
+"Cuando era pequeña, cuando estaban de moda los Nintendo DS, yo tenía uno y un juego que jugaba bastante. Era sino mal recuerdo Kirby Súper Star Ultra. Lo jugaba mucho juntos al resto de juegos de la franquicia de Nintendo. Pero Kirby específicamente es un juego que me marcó bastante y de los que más recuerdo, junto a Starfy que era similar y Yoshi Island. Hace mucho no juego ninguno de Kirby ya que no sentía el mismo “hype” a los antiguos que habían de plataforma en DS. Esos juegos tenían ese toque que sin importar que no te aburrías. Actualmente me ha llamado la atención el juego más reciente que han sacado de Kirby in The Forgotten Land que es parecido al Mario Odissey en cuestión del mundo abierto y se ve interesante pero aún no me he tomado la oportunidad de comprármelo." - Debbimar
 
-Jeremy (memoria) - Cuando era pequeño me gustaba mucho jugar Super Smash Bros., desde la versión de Nintendo 64 hasta Brawl. Uno de los personajes que más me gustaba usar era Kirby, ya que era muy fácil de manejar y tenía buenas habilidades.
-Lo que más me llamaba la atención de él era su habilidad única: podía imitar las habilidades de sus oponentes cada vez que los “chupaba”. La que más me gustaba imitar era la del personaje Ness, porque cuando Kirby le robaba su habilidad también se ponía la gorra de Ness, y se veía bien cute con ella. Al realizar este proyecto me dio mucha nostalgia, porque Kirby es un personaje que me recuerda mucho a mi infancia y me hizo dar un verdadero viaje al pasado.
+"Cuando era pequeño me gustaba mucho jugar Super Smash Bros., desde la versión de Nintendo 64 hasta Brawl. Uno de los personajes que más me gustaba usar era Kirby, ya que era muy fácil de manejar y tenía buenas habilidades. Lo que más me llamaba la atención de él era su habilidad única: podía imitar las habilidades de sus oponentes cada vez que los “chupaba”. La que más me gustaba imitar era la del personaje Ness, porque cuando Kirby le robaba su habilidad también se ponía la gorra de Ness, y se veía bien cute con ella. Al realizar este proyecto me dio mucha nostalgia, porque Kirby es un personaje que me recuerda mucho a mi infancia y me hizo dar un verdadero viaje al pasado." - Jeremy
 
 ### Esperiencia Ganada
-Debbimar - De este challenge lo que mas me sorprendio fue la cantidad de veces que utilice esferas. Al kirby ser un personaje redondo y casi todas sus extremidades ser de la misma forma pues muchas cosas eran con esferas pero en otros kirbys se utilizaron tambien cubos, cilindros e incluso capsulas. Me sorprendio como con objetos 3D simples se logro hacer "objetos" o assets mas complejos como el microfono y la espada.
+"De este challenge lo que más me sorprendió fue la cantidad de veces que utilice esferas. Al kirby ser un personaje redondo y casi todas sus extremidades ser de la misma forma pues muchas cosas eran con esferas, pero en otros Kirbys se utilizaron también cubos, cilindros e incluso cápsulas. Me sorprendió como con objetos 3D simples se logro hacer "objetos" o assets mas complejos como el microfono y la espada." - Debbimar
 
-Jeremy - Este challenge me gustó mucho, ya que tuve la oportunidad de crear a Kirby, uno de los personajes que marcó mi infancia. La parte que más trabajo me dio fue la de crear sus zapatos, porque no sabía qué objeto utilizar. Al final terminé usando la esfera, con la que pude hacerlos lo más parecidos posible al Kirby original. Espero que algún día pueda aprender a utilizar más herramientas de Unity para crear personajes como Kirby de forma más precisa y elaborada.
+"Este challenge me gustó mucho, ya que tuve la oportunidad de crear a Kirby, uno de los personajes que marcó mi infancia. La parte que más trabajo me dio fue la de crear sus zapatos, porque no sabía qué objeto utilizar. Al final terminé usando la esfera, con la que pude hacerlos lo más parecidos posible al Kirby original. Espero que algún día pueda aprender a utilizar más herramientas de Unity para crear personajes como Kirby de forma más precisa y elaborada." - Jeremy
