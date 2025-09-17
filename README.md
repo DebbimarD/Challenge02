@@ -133,6 +133,11 @@ Una vez colocadas todas las partes de la gorra de Kirby, comenzamos a colorearla
 ### Terrain
 
 <div align="center">
+  <img  src="KirbyNormalTerreno.png" width="50%" />
+  <p><i>Kirby Normal en Terrain.</i></p>
+</div>
+
+<div align="center">
   <img src="kirby mike in terrain.png" width="50%" />
   <p><i>Kirby Mike en Terrain.</i></p>
 </div>
@@ -144,15 +149,19 @@ Una vez colocadas todas las partes de la gorra de Kirby, comenzamos a colorearla
 
 <div align="center">
 <img alt="complete ness" src="https://github.com/user-attachments/assets/70a8e4a9-da94-4e75-8278-ecb6ed3a8192" width = "50%"/>
-  <p><i>Kirby Ness on Terrain and ready to fight!.</i></p>
+  <p><i>Kirby Ness en Terrain and ready to fight!</i></p>
 </div>
 
 ### Memoria o Historia
 "Cuando era pequeña, cuando estaban de moda los Nintendo DS, yo tenía uno y un juego que jugaba bastante. Era sino mal recuerdo Kirby Súper Star Ultra. Lo jugaba mucho juntos al resto de juegos de la franquicia de Nintendo. Pero Kirby específicamente es un juego que me marcó bastante y de los que más recuerdo, junto a Starfy que era similar y Yoshi Island. Hace mucho no juego ninguno de Kirby ya que no sentía el mismo “hype” a los antiguos que habían de plataforma en DS. Esos juegos tenían ese toque que sin importar que no te aburrías. Actualmente me ha llamado la atención el juego más reciente que han sacado de Kirby in The Forgotten Land que es parecido al Mario Odissey en cuestión del mundo abierto y se ve interesante pero aún no me he tomado la oportunidad de comprármelo." - Debbimar
 
+"Cuando era chiquito me regalaron par de juegos de Kirby. Recuerdo uno que me lo alquilaron en RedBox, cuando existia para ese entonces, el Super Smash Bros para Wii. Fue uno de los juegos favoritos míos despué de Super Mario Bros." - Jonlier
+
 "Cuando era pequeño me gustaba mucho jugar Super Smash Bros., desde la versión de Nintendo 64 hasta Brawl. Uno de los personajes que más me gustaba usar era Kirby, ya que era muy fácil de manejar y tenía buenas habilidades. Lo que más me llamaba la atención de él era su habilidad única: podía imitar las habilidades de sus oponentes cada vez que los “chupaba”. La que más me gustaba imitar era la del personaje Ness, porque cuando Kirby le robaba su habilidad también se ponía la gorra de Ness, y se veía bien cute con ella. Al realizar este proyecto me dio mucha nostalgia, porque Kirby es un personaje que me recuerda mucho a mi infancia y me hizo dar un verdadero viaje al pasado." - Jeremy
 
 ### Esperiencia Ganada
 "De este challenge lo que más me sorprendió fue la cantidad de veces que utilice esferas. Al kirby ser un personaje redondo y casi todas sus extremidades ser de la misma forma pues muchas cosas eran con esferas, pero en otros Kirbys se utilizaron también cubos, cilindros e incluso cápsulas. Me sorprendió como con objetos 3D simples se logro hacer "objetos" o assets mas complejos como el microfono y la espada." - Debbimar
+
+"Honestamente, este reto lo 'paltí'. Para el prefab número uno, el cual lo hice yo, se me hizo curiosa la forma de hacer la sonrisa. Fue la parte más dificl. Es decir, si Unity tuviera o si ya tiene una forma de dibujar/trazar en objeto sería mucho más fácil que crea un objeto 3D para crearlo. Como era de esperarse, a mi me entró la curiosdad de cómo poner color a los objetos. Así que, me di con la tarea de buscar en Google y logré añadirle color al Kirby. Fue emocionante, entretenido, satisfactorio juegar con Unity para crear un Kirby y su paisaje. En fin, challege número dos completado.
 
 "Este challenge me gustó mucho, ya que tuve la oportunidad de crear a Kirby, uno de los personajes que marcó mi infancia. La parte que más trabajo me dio fue la de crear sus zapatos, porque no sabía qué objeto utilizar. Al final terminé usando la esfera, con la que pude hacerlos lo más parecidos posible al Kirby original. Espero que algún día pueda aprender a utilizar más herramientas de Unity para crear personajes como Kirby de forma más precisa y elaborada." - Jeremy
