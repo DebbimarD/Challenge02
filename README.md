@@ -31,7 +31,7 @@ En el prefab, en la opción de de agregar componentes, se selecciona y se busca 
 ### Variants
 <div align="center">
   <img src="kirby prefab variants.png" width="50%" />
-  <p><i>Se crean 4 variantes del prefab</i></p>
+  <p><i>Se crean 4 variantes del prefab.</i></p>
 </div>
 
 Después de haber creado el prefab, se hacen 4 variantes para los diferentes Kirbys y esto se hace arrastrando el prefab principal al área de assets y unity te da un aviso de si quieres crear un prefab variants y al marcar que si ya tenemos el primer variant. Se hacen los mismos pasos para el resto de los variants.
@@ -122,7 +122,7 @@ Después de terminar la visera, creamos el botón superior de la gorra. Simpleme
 
 <div align="center">
   <img  alt="colored ness" src="https://github.com/user-attachments/assets/ef63c5bb-2297-494b-a58b-54ff0fe56c2c" width="50%" />
-  <p><i>Parte 5 colorear a Kirby Ness)</i></p>
+  <p><i>Parte 5 (Colorear a Kirby Ness)</i></p>
 </div>
 
 
